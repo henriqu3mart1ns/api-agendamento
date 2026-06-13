@@ -7,7 +7,7 @@ Turma: 2ADS
 |------------|
 | Henrique Martins |
 | Eduardo Mendes |
-| Angel Danylo |
+| Vitor Hugo |
 # Sistema de Agendamento
 
 Sistema de agendamento desenvolvido para fins acadêmicos utilizando Node.js, Express, Knex e MySQL.
