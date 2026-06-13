@@ -3,7 +3,7 @@ Turma: 2ADS
 
 ## Equipe de Desenvolvimento
 
-| Integrante |
+| Integrantes |
 |------------|
 | Henrique Martins |
 | Eduardo Mendes |
@@ -43,13 +43,28 @@ O projeto tem como objetivo aplicar conceitos de desenvolvimento web, APIs REST,
 
 
 
-Passo a passo pra rodar:
+## Passo a Passo para Rodar o Projeto
 
+### Instalar as dependências
+
+```bash
 npm install
+```
 
-# criar o banco
+### Criar o banco de dados
+
+```sql
 CREATE DATABASE agendamento;
+```
 
+### Executar as migrations
+
+```bash
 npx knex migrate:latest
+```
 
+### Iniciar o servidor
+
+```bash
 npm run dev
+```
