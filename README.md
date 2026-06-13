@@ -20,11 +20,9 @@ O backend foi desenvolvido seguindo o padrão de API REST, realizando a comunica
 
 * Cadastro de novos agendamentos
 * Listagem de agendamentos cadastrados
-* Consulta de agendamentos por ID
 * Edição de informações de agendamentos
 * Exclusão de registros
 * Integração entre frontend e backend
-* Persistência de dados em banco MySQL
 
 ## Tecnologias Utilizadas
 
