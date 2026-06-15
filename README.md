@@ -48,11 +48,11 @@ O projeto tem como objetivo aplicar conceitos de desenvolvimento web, APIs REST,
 ```bash
 npm install
 ```
-
+npm install knex
 ### Criar o banco de dados
 
 ```sql
-CREATE DATABASE agendamento;
+CREATE DATABASE agendamento_db;
 ```
 
 ### Executar as migrations
